@@ -11,6 +11,8 @@ In this challenge the following criteria was set out to be completed:
 4. Remove the left and right margin for the devices below the 992px
 5. Remember to keep in mind the mobile-first approach
 
+The website can be found [here!](https://davidtmiller2010.github.io/responsive_design_challenges/)
+
 ## Developement Tools
 The tools used for the creation and management of this project included Cloud9,
 More information on these tools can be found by following the links in the webpage.
@@ -20,4 +22,4 @@ HTML and CSS were used to write this project in Cloud9.
 
 ## Author
 - Challenge CSS code was written by David Miller
-- HTML code was written by code institute
+- Challenge HTML code was written by code institute
