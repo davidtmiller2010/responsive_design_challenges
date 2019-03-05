@@ -19,5 +19,5 @@ More information on these tools can be found by following the links in the webpa
 HTML and CSS were used to write this project in Cloud9. 
 
 ## Author
-Challenge CSS code was written by David Miller
-Challenge HTML code was written by code institute
+- Challenge CSS code was written by David Miller
+- HTML code was written by code institute
